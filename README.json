@@ -1,0 +1,430 @@
+{
+  "items": [
+    {
+      "description": "Log in and play.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mudlet",
+          "description": "A cross-platform, MUD client with scripting in Lua.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:28:13Z",
+            "owner": "Mudlet",
+            "repo": "Mudlet",
+            "stars": 902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blightmud",
+          "description": "A mud client for the terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T07:02:55Z",
+            "owner": "Blightmud",
+            "repo": "Blightmud",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MUDRammer",
+          "description": "Modern MUD client for the iPhone and iPad.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2025-03-25T15:05:18Z",
+            "owner": "splinesoft",
+            "repo": "MUDRammer",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tortilla",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-04-16T20:14:14Z",
+            "owner": "tmud",
+            "repo": "tortilla",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KBtin",
+          "description": "TinTin++-style MUD client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-05T19:16:00Z",
+            "owner": "kilobyte",
+            "repo": "kbtin",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JMC - Jaba MUD Client forks: by conelav",
+          "description": "and by nerevar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-05T17:42:13Z",
+            "owner": "konelav",
+            "repo": "jmc",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "powwow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-01-12T20:07:55Z",
+            "owner": "MUME",
+            "repo": "powwow",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muddle",
+          "description": "Electron-Based MUD Client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-28T15:21:49Z",
+            "owner": "gvanderest",
+            "repo": "muddle",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Clients"
+    },
+    {
+      "description": "Active and retired MUD codebases.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Evennia",
+          "description": "Python MUD/MUX/MUSH/MU* development system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T11:11:45Z",
+            "owner": "evennia",
+            "repo": "evennia",
+            "stars": 2085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ranvier",
+          "description": "Node.js-based MUD engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-11T19:01:13Z",
+            "owner": "RanvierMUD",
+            "repo": "ranviermud",
+            "stars": 854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExVenture",
+          "description": "Elixir based MUD engine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Elixir",
+            "last_commit": "2023-02-14T03:11:55Z",
+            "owner": "oestrich",
+            "repo": "ex_venture",
+            "stars": 672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluffOS",
+          "description": "actively maintained LPMUD driver, based on the last release of MudOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:02:05Z",
+            "owner": "fluffos",
+            "repo": "fluffos",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoffeMud",
+          "description": "Java-based MUD engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T02:25:39Z",
+            "owner": "bozimmerman",
+            "repo": "CoffeeMud",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DikuMUD3",
+          "description": "Latest DikuMID release with HTML and websockets support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T12:17:58Z",
+            "owner": "Seifert69",
+            "repo": "DikuMUD3",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kalevala",
+          "description": "World building toolkit for text based games, written in Elixir.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2025-05-04T12:04:15Z",
+            "owner": "oestrich",
+            "repo": "kalevala",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Legends of Future Past",
+          "description": "1992 commercial MUD resurrected from original script files using AI. Go backend, React frontend, WebSocket multiplayer. MIT license. Play free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-17T20:07:29Z",
+            "owner": "jonradoff",
+            "repo": "lofp",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ldmud",
+          "description": "LDMud game driver for LPMuds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-15T16:10:28Z",
+            "owner": "ldmud",
+            "repo": "ldmud",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RockMUD",
+          "description": "Node.js-based WebSockets-capable MUD server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T03:55:09Z",
+            "owner": "MoreOutput",
+            "repo": "RockMUD",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tale",
+          "description": "Mud, mudlib & interactive fiction framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-05-24T11:04:30Z",
+            "owner": "irmen",
+            "repo": "Tale",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tbaMUD",
+          "description": "tbaMUD is the continued development of the codebase formerly known as CircleMUD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-13T23:50:08Z",
+            "owner": "tbamud",
+            "repo": "tbamud",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArchaicQuest",
+          "description": "C# web based MUD engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-02-14T12:25:14Z",
+            "owner": "LiamKenneth",
+            "repo": "ArchaicQuest",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DragonMUD",
+          "description": "MUD engine in GO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-12T22:00:09Z",
+            "owner": "bbuck",
+            "repo": "dragon-mud",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmpireMUD",
+          "description": "EmpireMUD is a MUD server with a persistent world map. It is a derivative of CircleMUD and DikuMUD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:53:48Z",
+            "owner": "EmpireMUD",
+            "repo": "EmpireMUD-2.0-Beta",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "room.js",
+          "description": "Node.js-based MUD/MOO engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-25T04:10:03Z",
+            "owner": "doughsay",
+            "repo": "room.js",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CurryMUD",
+          "description": "Textual Multi-User Dungeon server in Haskell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2023-12-12T20:11:17Z",
+            "owner": "jasonstolaruk",
+            "repo": "CurryMUD",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AwakeMUD",
+          "description": "Community fork of Awakened Worlds written in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-26T13:10:05Z",
+            "owner": "luciensadi",
+            "repo": "AwakeMUD",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DUM",
+          "description": "A modern Python MU* engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-25T18:55:27Z",
+            "owner": "wowpin",
+            "repo": "dumserver",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BRus MUD Engine",
+          "description": "Russian MUD engine in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:22:22Z",
+            "owner": "bylins",
+            "repo": "mud",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HellCore",
+          "description": "HellCore fork of LambdaMOO.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-04-25T03:03:29Z",
+            "owner": "necanthrope",
+            "repo": "HellCore",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Codebases"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:41.150Z",
+    "original_repository": "mudcoders/awesome-mud",
+    "original_repository_sha": "363409d8b3e05996e069e1b16304d1b391894516",
+    "enhanced_repository": "enhansome/enhansome-mud",
+    "enhanced_repository_description": null,
+    "title": "Awesome MUD with stars"
+  }
+}
