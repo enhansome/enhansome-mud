@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T19:28:13Z",
+            "last_commit": "2026-08-13T21:07:34Z",
             "owner": "Mudlet",
             "repo": "Mudlet",
             "stars": 902
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-09T11:11:45Z",
             "owner": "evennia",
             "repo": "evennia",
-            "stars": 2085
+            "stars": 2087
           }
         },
         {
@@ -171,7 +171,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T00:02:05Z",
+            "last_commit": "2026-08-13T21:59:28Z",
             "owner": "fluffos",
             "repo": "fluffos",
             "stars": 452
@@ -185,7 +185,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T02:25:39Z",
+            "last_commit": "2026-08-13T17:13:56Z",
             "owner": "bozimmerman",
             "repo": "CoffeeMud",
             "stars": 230
@@ -325,7 +325,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T19:53:48Z",
+            "last_commit": "2026-08-13T15:05:32Z",
             "owner": "EmpireMUD",
             "repo": "EmpireMUD-2.0-Beta",
             "stars": 101
@@ -395,7 +395,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T02:22:22Z",
+            "last_commit": "2026-08-13T17:06:36Z",
             "owner": "bylins",
             "repo": "mud",
             "stars": 43
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:14:41.150Z",
+    "last_updated": "2026-08-13T22:19:57.049Z",
     "original_repository": "mudcoders/awesome-mud",
     "original_repository_sha": "363409d8b3e05996e069e1b16304d1b391894516",
     "enhanced_repository": "enhansome/enhansome-mud",
