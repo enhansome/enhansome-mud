@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T20:37:44Z",
+            "last_commit": "2026-08-18T21:30:43Z",
             "owner": "Mudlet",
             "repo": "Mudlet",
             "stars": 902
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-17T21:39:31Z",
             "owner": "evennia",
             "repo": "evennia",
-            "stars": 2086
+            "stars": 2087
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2023-07-11T19:01:13Z",
             "owner": "RanvierMUD",
             "repo": "ranviermud",
-            "stars": 854
+            "stars": 853
           }
         },
         {
@@ -171,7 +171,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T21:06:33Z",
+            "last_commit": "2026-08-18T18:20:19Z",
             "owner": "fluffos",
             "repo": "fluffos",
             "stars": 452
@@ -185,7 +185,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T01:46:10Z",
+            "last_commit": "2026-08-18T18:57:23Z",
             "owner": "bozimmerman",
             "repo": "CoffeeMud",
             "stars": 232
@@ -395,7 +395,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T21:31:43Z",
+            "last_commit": "2026-08-18T19:39:04Z",
             "owner": "bylins",
             "repo": "mud",
             "stars": 43
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:51:59.464Z",
+    "last_updated": "2026-08-18T21:50:06.239Z",
     "original_repository": "mudcoders/awesome-mud",
     "original_repository_sha": "363409d8b3e05996e069e1b16304d1b391894516",
     "enhanced_repository": "enhansome/enhansome-mud",
