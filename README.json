@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15108812,
             "language": "C++",
-            "last_commit": "2026-08-18T21:30:43Z",
+            "last_commit": "2026-08-19T12:38:17Z",
             "owner": "Mudlet",
             "repo": "Mudlet",
             "stars": 902
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258866028,
             "language": "Rust",
             "last_commit": "2026-08-10T07:02:55Z",
             "owner": "Blightmud",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24035354,
             "language": "Objective-C",
             "last_commit": "2025-03-25T15:05:18Z",
             "owner": "splinesoft",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23519550,
             "language": "C++",
             "last_commit": "2022-04-16T20:14:14Z",
             "owner": "tmud",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 620284,
             "language": "C++",
             "last_commit": "2026-08-05T19:16:00Z",
             "owner": "kilobyte",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53361780,
             "language": "C",
             "last_commit": "2026-07-05T17:42:13Z",
             "owner": "konelav",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24268547,
             "language": "C",
             "last_commit": "2023-01-12T20:07:55Z",
             "owner": "MUME",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56106082,
             "language": "JavaScript",
             "last_commit": "2018-03-28T15:21:49Z",
             "owner": "gvanderest",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16120959,
             "language": "Python",
             "last_commit": "2026-08-17T21:39:31Z",
             "owner": "evennia",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3138633,
             "language": "JavaScript",
             "last_commit": "2023-07-11T19:01:13Z",
             "owner": "RanvierMUD",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 97041249,
             "language": "Elixir",
             "last_commit": "2023-02-14T03:11:55Z",
             "owner": "oestrich",
@@ -170,8 +181,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8451252,
             "language": "C++",
-            "last_commit": "2026-08-18T18:20:19Z",
+            "last_commit": "2026-08-19T09:15:14Z",
             "owner": "fluffos",
             "repo": "fluffos",
             "stars": 452
@@ -184,8 +196,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5267832,
             "language": "Java",
-            "last_commit": "2026-08-18T18:57:23Z",
+            "last_commit": "2026-08-19T02:16:35Z",
             "owner": "bozimmerman",
             "repo": "CoffeeMud",
             "stars": 232
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266027003,
             "language": "C++",
             "last_commit": "2026-08-11T12:17:58Z",
             "owner": "Seifert69",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238809263,
             "language": "Elixir",
             "last_commit": "2025-05-04T12:04:15Z",
             "owner": "oestrich",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1200366737,
             "language": "HTML",
             "last_commit": "2026-05-17T20:07:29Z",
             "owner": "jonradoff",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1085012,
             "language": "C",
             "last_commit": "2026-02-15T16:10:28Z",
             "owner": "ldmud",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5919343,
             "language": "JavaScript",
             "last_commit": "2023-03-04T03:55:09Z",
             "owner": "MoreOutput",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11187039,
             "language": null,
             "last_commit": "2026-05-24T11:04:30Z",
             "owner": "irmen",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9404856,
             "language": "C",
             "last_commit": "2026-05-13T23:50:08Z",
             "owner": "tbamud",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56274260,
             "language": "C#",
             "last_commit": "2018-02-14T12:25:14Z",
             "owner": "LiamKenneth",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49964592,
             "language": "Go",
             "last_commit": "2026-02-12T22:00:09Z",
             "owner": "bbuck",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34863478,
             "language": "C",
             "last_commit": "2026-08-16T15:55:11Z",
             "owner": "EmpireMUD",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7281463,
             "language": "JavaScript",
             "last_commit": "2020-05-25T04:10:03Z",
             "owner": "doughsay",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19897997,
             "language": "Haskell",
             "last_commit": "2023-12-12T20:11:17Z",
             "owner": "jasonstolaruk",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91841886,
             "language": "C++",
             "last_commit": "2026-07-26T13:10:05Z",
             "owner": "luciensadi",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160494467,
             "language": "JavaScript",
             "last_commit": "2023-09-25T18:55:27Z",
             "owner": "wowpin",
@@ -394,8 +421,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143519912,
             "language": "C++",
-            "last_commit": "2026-08-18T19:39:04Z",
+            "last_commit": "2026-08-19T12:16:15Z",
             "owner": "bylins",
             "repo": "mud",
             "stars": 43
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48193891,
             "language": "C",
             "last_commit": "2022-04-25T03:03:29Z",
             "owner": "necanthrope",
@@ -420,8 +449,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:50:06.239Z",
+    "last_updated": "2026-08-19T12:42:28.435Z",
     "original_repository": "mudcoders/awesome-mud",
+    "original_repository_id": 100836241,
     "original_repository_sha": "363409d8b3e05996e069e1b16304d1b391894516",
     "enhanced_repository": "enhansome/enhansome-mud",
     "enhanced_repository_description": null,
