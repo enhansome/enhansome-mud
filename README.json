@@ -12,7 +12,7 @@
             "archived": false,
             "id": 15108812,
             "language": "C++",
-            "last_commit": "2026-08-23T21:25:57Z",
+            "last_commit": "2026-08-24T14:31:09Z",
             "owner": "Mudlet",
             "repo": "Mudlet",
             "stars": 904
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-19T21:26:14Z",
             "owner": "evennia",
             "repo": "evennia",
-            "stars": 2089
+            "stars": 2090
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2023-07-11T19:01:13Z",
             "owner": "RanvierMUD",
             "repo": "ranviermud",
-            "stars": 854
+            "stars": 855
           }
         },
         {
@@ -198,7 +198,7 @@
             "archived": false,
             "id": 5267832,
             "language": "Java",
-            "last_commit": "2026-08-23T20:54:35Z",
+            "last_commit": "2026-08-24T07:03:08Z",
             "owner": "bozimmerman",
             "repo": "CoffeeMud",
             "stars": 233
@@ -336,7 +336,7 @@
             "last_commit": "2026-02-12T22:00:09Z",
             "owner": "bbuck",
             "repo": "dragon-mud",
-            "stars": 124
+            "stars": 123
           }
         },
         {
@@ -348,7 +348,7 @@
             "archived": false,
             "id": 34863478,
             "language": "C",
-            "last_commit": "2026-08-19T13:30:30Z",
+            "last_commit": "2026-08-24T13:40:29Z",
             "owner": "EmpireMUD",
             "repo": "EmpireMUD-2.0-Beta",
             "stars": 101
@@ -423,7 +423,7 @@
             "archived": false,
             "id": 143519912,
             "language": "C++",
-            "last_commit": "2026-08-23T06:09:52Z",
+            "last_commit": "2026-08-24T08:35:03Z",
             "owner": "bylins",
             "repo": "mud",
             "stars": 43
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:48:40.212Z",
+    "last_updated": "2026-08-24T14:38:32.485Z",
     "original_repository": "mudcoders/awesome-mud",
     "original_repository_id": 100836241,
     "original_repository_sha": "363409d8b3e05996e069e1b16304d1b391894516",
