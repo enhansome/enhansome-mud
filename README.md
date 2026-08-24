@@ -18,7 +18,7 @@ YP  YP  YP ~Y8888P' Y8888D'
 
 > A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,520 | 🐛 106 | 📅 2026-08-21 list thing. You might also like [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,496 | 🐛 184 | 📅 2025-08-28 and [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,232 | 🐛 1 | 🌐 Shell | 📅 2026-08-22, which both support text-based living!*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,602 | 🐛 106 | 📅 2026-08-21 list thing. You might also like [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,498 | 🐛 184 | 📅 2025-08-28 and [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,236 | 🐛 1 | 🌐 Shell | 📅 2026-08-22, which both support text-based living!*
 
 Want to add your awesome MUD resource? Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
@@ -33,7 +33,7 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 
 *Log in and play.*
 
-* [Mudlet](https://github.com/Mudlet/Mudlet) ⭐ 904 | 🐛 594 | 🌐 C++ | 📅 2026-08-24 - A cross-platform, MUD client with scripting in Lua.
+* [Mudlet](https://github.com/Mudlet/Mudlet) ⭐ 904 | 🐛 600 | 🌐 C++ | 📅 2026-08-24 - A cross-platform, MUD client with scripting in Lua.
 * [Blightmud](https://github.com/LiquidityC/Blightmud) ⭐ 274 | 🐛 17 | 🌐 Rust | 📅 2026-08-10 -  A mud client for the terminal
 * [MUDRammer](https://github.com/splinesoft/MUDRammer) ⭐ 86 | 🐛 361 | 🌐 Objective-C | 📅 2025-03-25 - Modern MUD client for the iPhone and iPad.
 * [Tortilla](https://github.com/tmud/tortilla) ⭐ 26 | 🐛 2 | 🌐 C++ | 📅 2022-04-16

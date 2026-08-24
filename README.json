@@ -12,7 +12,7 @@
             "archived": false,
             "id": 15108812,
             "language": "C++",
-            "last_commit": "2026-08-24T14:31:09Z",
+            "last_commit": "2026-08-24T20:12:55Z",
             "owner": "Mudlet",
             "repo": "Mudlet",
             "stars": 904
@@ -198,7 +198,7 @@
             "archived": false,
             "id": 5267832,
             "language": "Java",
-            "last_commit": "2026-08-24T07:03:08Z",
+            "last_commit": "2026-08-24T19:48:58Z",
             "owner": "bozimmerman",
             "repo": "CoffeeMud",
             "stars": 233
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:38:32.485Z",
+    "last_updated": "2026-08-24T21:55:05.106Z",
     "original_repository": "mudcoders/awesome-mud",
     "original_repository_id": 100836241,
     "original_repository_sha": "363409d8b3e05996e069e1b16304d1b391894516",
