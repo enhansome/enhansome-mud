@@ -12,10 +12,10 @@
             "archived": false,
             "id": 15108812,
             "language": "C++",
-            "last_commit": "2026-08-25T20:19:43Z",
+            "last_commit": "2026-08-26T19:50:40Z",
             "owner": "Mudlet",
             "repo": "Mudlet",
-            "stars": 905
+            "stars": 906
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 258866028,
             "language": "Rust",
-            "last_commit": "2026-08-10T07:02:55Z",
+            "last_commit": "2026-08-26T08:04:27Z",
             "owner": "Blightmud",
             "repo": "Blightmud",
             "stars": 274
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 8451252,
             "language": "C++",
-            "last_commit": "2026-08-25T06:04:55Z",
+            "last_commit": "2026-08-26T14:29:02Z",
             "owner": "fluffos",
             "repo": "fluffos",
             "stars": 452
@@ -198,7 +198,7 @@
             "archived": false,
             "id": 5267832,
             "language": "Java",
-            "last_commit": "2026-08-25T20:19:19Z",
+            "last_commit": "2026-08-26T18:43:55Z",
             "owner": "bozimmerman",
             "repo": "CoffeeMud",
             "stars": 233
@@ -303,7 +303,7 @@
             "archived": false,
             "id": 9404856,
             "language": "C",
-            "last_commit": "2026-05-13T23:50:08Z",
+            "last_commit": "2026-08-26T23:06:09Z",
             "owner": "tbamud",
             "repo": "tbamud",
             "stars": 150
@@ -423,7 +423,7 @@
             "archived": false,
             "id": 143519912,
             "language": "C++",
-            "last_commit": "2026-08-25T20:20:30Z",
+            "last_commit": "2026-08-26T12:23:13Z",
             "owner": "bylins",
             "repo": "mud",
             "stars": 43
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:54:48.543Z",
+    "last_updated": "2026-08-27T00:59:41.400Z",
     "original_repository": "mudcoders/awesome-mud",
     "original_repository_id": 100836241,
     "original_repository_sha": "363409d8b3e05996e069e1b16304d1b391894516",
