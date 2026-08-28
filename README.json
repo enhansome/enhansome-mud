@@ -12,11 +12,12 @@
             "archived": false,
             "id": 15108812,
             "language": "C++",
-            "last_commit": "2026-08-27T04:47:49Z",
+            "last_commit": "2026-08-28T04:16:14Z",
             "owner": "Mudlet",
             "repo": "Mudlet",
             "stars": 906
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Blightmud",
             "repo": "Blightmud",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "splinesoft",
             "repo": "MUDRammer",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "tmud",
             "repo": "tortilla",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "kilobyte",
             "repo": "kbtin",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "konelav",
             "repo": "jmc",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "MUME",
             "repo": "powwow",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "gvanderest",
             "repo": "muddle",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         }
       ],
       "title": "Clients"
@@ -141,8 +149,9 @@
             "last_commit": "2026-08-19T21:26:14Z",
             "owner": "evennia",
             "repo": "evennia",
-            "stars": 2090
-          }
+            "stars": 2091
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "RanvierMUD",
             "repo": "ranviermud",
             "stars": 855
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "oestrich",
             "repo": "ex_venture",
             "stars": 672
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -183,11 +194,12 @@
             "archived": false,
             "id": 8451252,
             "language": "C++",
-            "last_commit": "2026-08-26T14:29:02Z",
+            "last_commit": "2026-08-28T04:36:14Z",
             "owner": "fluffos",
             "repo": "fluffos",
             "stars": 452
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -198,11 +210,12 @@
             "archived": false,
             "id": 5267832,
             "language": "Java",
-            "last_commit": "2026-08-27T06:00:11Z",
+            "last_commit": "2026-08-28T04:22:43Z",
             "owner": "bozimmerman",
             "repo": "CoffeeMud",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "Seifert69",
             "repo": "DikuMUD3",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "oestrich",
             "repo": "kalevala",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "jonradoff",
             "repo": "lofp",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "ldmud",
             "repo": "ldmud",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "MoreOutput",
             "repo": "RockMUD",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "irmen",
             "repo": "Tale",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -303,11 +322,12 @@
             "archived": false,
             "id": 9404856,
             "language": "C",
-            "last_commit": "2026-08-26T23:06:09Z",
+            "last_commit": "2026-08-27T21:50:22Z",
             "owner": "tbamud",
             "repo": "tbamud",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "LiamKenneth",
             "repo": "ArchaicQuest",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "bbuck",
             "repo": "dragon-mud",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "EmpireMUD",
             "repo": "EmpireMUD-2.0-Beta",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "doughsay",
             "repo": "room.js",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "jasonstolaruk",
             "repo": "CurryMUD",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "luciensadi",
             "repo": "AwakeMUD",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "wowpin",
             "repo": "dumserver",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -423,11 +450,12 @@
             "archived": false,
             "id": 143519912,
             "language": "C++",
-            "last_commit": "2026-08-26T12:23:13Z",
+            "last_commit": "2026-08-28T05:10:45Z",
             "owner": "bylins",
             "repo": "mud",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         },
         {
           "node_type": "item",
@@ -442,14 +470,15 @@
             "owner": "necanthrope",
             "repo": "HellCore",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T05:34:27.591Z"
         }
       ],
       "title": "Codebases"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:02.612Z",
+    "last_updated": "2026-08-28T05:34:27.591Z",
     "original_repository_info": {
       "archived": false,
       "id": 100836241,
