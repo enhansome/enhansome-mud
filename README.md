@@ -18,7 +18,7 @@ YP  YP  YP ~Y8888P' Y8888D'
 
 > A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,882 | 🐛 105 | 📅 2026-08-21 list thing. You might also like [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,526 | 🐛 185 | 📅 2025-08-28 and [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,274 | 🐛 0 | 🌐 Shell | 📅 2026-08-22, which both support text-based living!*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,897 | 🐛 105 | 📅 2026-08-21 list thing. You might also like [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,526 | 🐛 185 | 📅 2025-08-28 and [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,274 | 🐛 0 | 🌐 Shell | 📅 2026-08-22, which both support text-based living!*
 
 Want to add your awesome MUD resource? Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
@@ -69,7 +69,7 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 * [CurryMUD](https://github.com/jasonstolaruk/CurryMUD) ⭐ 79 | 🐛 1 | 🌐 Haskell | 📅 2023-12-12 - Textual Multi-User Dungeon server in Haskell.
 * [AwakeMUD](https://github.com/luciensadi/AwakeMUD) ⭐ 77 | 🐛 11 | 🌐 C++ | 📅 2026-08-23 - Community fork of Awakened Worlds written in C++.
 * [DUM](https://github.com/wowpin/dumserver) ⭐ 71 | 🐛 6 | 🌐 JavaScript | 📅 2023-09-25 - A modern Python MU\* engine.
-* [BRus MUD Engine](https://github.com/bylins/mud) ⭐ 43 | 🐛 36 | 🌐 C++ | 📅 2026-08-28 - Russian MUD engine in C++.
+* [BRus MUD Engine](https://github.com/bylins/mud) ⭐ 43 | 🐛 40 | 🌐 C++ | 📅 2026-08-29 - Russian MUD engine in C++.
 * [HellCore](https://github.com/necanthrope/HellCore) ⭐ 26 | 🐛 1 | 🌐 C | 📅 2022-04-25 - HellCore fork of LambdaMOO.
 
 ## Protocols
