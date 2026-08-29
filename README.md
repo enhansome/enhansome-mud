@@ -18,7 +18,7 @@ YP  YP  YP ~Y8888P' Y8888D'
 
 > A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,897 | 🐛 105 | 📅 2026-08-21 list thing. You might also like [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,526 | 🐛 185 | 📅 2025-08-28 and [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,274 | 🐛 0 | 🌐 Shell | 📅 2026-08-22, which both support text-based living!*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,156 | 🐛 105 | 📅 2026-08-21 list thing. You might also like [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,534 | 🐛 184 | 📅 2025-08-28 and [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,285 | 🐛 0 | 🌐 Shell | 📅 2026-08-22, which both support text-based living!*
 
 Want to add your awesome MUD resource? Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
@@ -33,8 +33,8 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 
 *Log in and play.*
 
-* [Mudlet](https://github.com/Mudlet/Mudlet) ⭐ 906 | 🐛 627 | 🌐 C++ | 📅 2026-08-29 - A cross-platform, MUD client with scripting in Lua.
-* [Blightmud](https://github.com/LiquidityC/Blightmud) ⭐ 274 | 🐛 15 | 🌐 Rust | 📅 2026-08-26 -  A mud client for the terminal
+* [Mudlet](https://github.com/Mudlet/Mudlet) ⭐ 906 | 🐛 612 | 🌐 C++ | 📅 2026-08-29 - A cross-platform, MUD client with scripting in Lua.
+* [Blightmud](https://github.com/LiquidityC/Blightmud) ⭐ 274 | 🐛 8 | 🌐 Rust | 📅 2026-08-29 -  A mud client for the terminal
 * [MUDRammer](https://github.com/splinesoft/MUDRammer) ⭐ 86 | 🐛 361 | 🌐 Objective-C | 📅 2025-03-25 - Modern MUD client for the iPhone and iPad.
 * [Tortilla](https://github.com/tmud/tortilla) ⭐ 26 | 🐛 2 | 🌐 C++ | 📅 2022-04-16
 * [KBtin](https://github.com/kilobyte/kbtin) ⭐ 23 | 🐛 3 | 🌐 C++ | 📅 2026-08-05 - TinTin++-style MUD client
@@ -61,7 +61,7 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 * [ldmud](https://github.com/ldmud/ldmud) ⭐ 157 | 🐛 46 | 🌐 C | 📅 2026-02-15 - LDMud game driver for LPMuds.
 * [RockMUD](https://github.com/MoreOutput/RockMUD) ⭐ 156 | 🐛 2 | 🌐 JavaScript | 📅 2023-03-04 - Node.js-based WebSockets-capable MUD server.
 * [Tale](https://github.com/irmen/Tale) ⚠️ Archived - Mud, mudlib & interactive fiction framework.
-* [tbaMUD](https://github.com/tbamud/tbamud) ⭐ 150 | 🐛 74 | 🌐 C | 📅 2026-08-27 - tbaMUD is the continued development of the codebase formerly known as CircleMUD
+* [tbaMUD](https://github.com/tbamud/tbamud) ⭐ 150 | 🐛 80 | 🌐 C | 📅 2026-08-27 - tbaMUD is the continued development of the codebase formerly known as CircleMUD
 * [ArchaicQuest](https://github.com/LiamKenneth/ArchaicQuest) ⭐ 144 | 🐛 6 | 🌐 C# | 📅 2018-02-14 - C# web based MUD engine.
 * [DragonMUD](https://github.com/bbuck/dragon-mud) ⭐ 123 | 🐛 0 | 🌐 Go | 📅 2026-02-12 - MUD engine in GO.
 * [EmpireMUD](https://github.com/EmpireMUD/EmpireMUD-2.0-Beta) ⭐ 101 | 🐛 12 | 🌐 C | 📅 2026-08-25 - EmpireMUD is a MUD server with a persistent world map. It is a derivative of CircleMUD and DikuMUD.
@@ -69,7 +69,7 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 * [CurryMUD](https://github.com/jasonstolaruk/CurryMUD) ⭐ 79 | 🐛 1 | 🌐 Haskell | 📅 2023-12-12 - Textual Multi-User Dungeon server in Haskell.
 * [AwakeMUD](https://github.com/luciensadi/AwakeMUD) ⭐ 77 | 🐛 11 | 🌐 C++ | 📅 2026-08-23 - Community fork of Awakened Worlds written in C++.
 * [DUM](https://github.com/wowpin/dumserver) ⭐ 71 | 🐛 6 | 🌐 JavaScript | 📅 2023-09-25 - A modern Python MU\* engine.
-* [BRus MUD Engine](https://github.com/bylins/mud) ⭐ 43 | 🐛 40 | 🌐 C++ | 📅 2026-08-29 - Russian MUD engine in C++.
+* [BRus MUD Engine](https://github.com/bylins/mud) ⭐ 43 | 🐛 44 | 🌐 C++ | 📅 2026-08-29 - Russian MUD engine in C++.
 * [HellCore](https://github.com/necanthrope/HellCore) ⭐ 26 | 🐛 1 | 🌐 C | 📅 2022-04-25 - HellCore fork of LambdaMOO.
 
 ## Protocols
