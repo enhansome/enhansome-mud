@@ -15,8 +15,8 @@
             "id": 15108812,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T22:23:04Z",
-            "open_issues": 916,
+            "last_commit": "2026-09-13T20:59:27Z",
+            "open_issues": 932,
             "owner": "Mudlet",
             "repo": "Mudlet",
             "stars": 910,
@@ -230,7 +230,7 @@
             "open_issues": 129,
             "owner": "evennia",
             "repo": "evennia",
-            "stars": 2098,
+            "stars": 2100,
             "topics": [
               "based",
               "django",
@@ -321,7 +321,7 @@
             "id": 8451252,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T03:45:43Z",
+            "last_commit": "2026-09-13T23:07:14Z",
             "open_issues": 23,
             "owner": "fluffos",
             "repo": "fluffos",
@@ -523,7 +523,7 @@
             "open_issues": 11,
             "owner": "tbamud",
             "repo": "tbamud",
-            "stars": 150,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T05:34:27.591Z"
@@ -606,7 +606,7 @@
             "id": 34863478,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-12T16:18:41Z",
+            "last_commit": "2026-09-13T17:57:57Z",
             "open_issues": 13,
             "owner": "EmpireMUD",
             "repo": "EmpireMUD-2.0-Beta",
@@ -750,8 +750,8 @@
             "id": 143519912,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T20:27:46Z",
-            "open_issues": 69,
+            "last_commit": "2026-09-13T15:50:45Z",
+            "open_issues": 56,
             "owner": "bylins",
             "repo": "mud",
             "stars": 43,
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:13:00.741Z",
+    "last_updated": "2026-09-13T23:23:35.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.",
