@@ -15,8 +15,8 @@
             "id": 15108812,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T23:16:12Z",
-            "open_issues": 867,
+            "last_commit": "2026-09-20T19:38:10Z",
+            "open_issues": 880,
             "owner": "Mudlet",
             "repo": "Mudlet",
             "stars": 913,
@@ -325,7 +325,7 @@
             "open_issues": 24,
             "owner": "fluffos",
             "repo": "fluffos",
-            "stars": 458,
+            "stars": 459,
             "topics": [
               "cpp17",
               "fluffos",
@@ -347,7 +347,7 @@
             "id": 5267832,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T22:40:46Z",
+            "last_commit": "2026-09-20T21:50:41Z",
             "open_issues": 3,
             "owner": "bozimmerman",
             "repo": "CoffeeMud",
@@ -606,8 +606,8 @@
             "id": 34863478,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-19T14:47:21Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-20T15:46:36Z",
+            "open_issues": 12,
             "owner": "EmpireMUD",
             "repo": "EmpireMUD-2.0-Beta",
             "stars": 101,
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T23:25:27.438Z",
+    "last_updated": "2026-09-20T23:24:17.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.",
