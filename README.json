@@ -102,7 +102,7 @@
         {
           "node_type": "item",
           "title": "Tortilla",
-          "description": null,
+          "description": "tmud/tortilla",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -165,7 +165,7 @@
         {
           "node_type": "item",
           "title": "powwow",
-          "description": null,
+          "description": "MUME/powwow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -347,11 +347,11 @@
             "id": 5267832,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T21:11:43Z",
+            "last_commit": "2026-10-03T03:07:42Z",
             "open_issues": 3,
             "owner": "bozimmerman",
             "repo": "CoffeeMud",
-            "stars": 235,
+            "stars": 236,
             "topics": []
           },
           "first_seen": "2026-08-28T05:34:27.591Z"
@@ -606,7 +606,7 @@
             "id": 34863478,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-02T17:56:09Z",
+            "last_commit": "2026-10-03T04:45:17Z",
             "open_issues": 12,
             "owner": "EmpireMUD",
             "repo": "EmpireMUD-2.0-Beta",
@@ -724,7 +724,7 @@
             "open_issues": 6,
             "owner": "wowpin",
             "repo": "dumserver",
-            "stars": 71,
+            "stars": 72,
             "topics": [
               "mud",
               "mud-engine",
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:39:47.469Z",
+    "last_updated": "2026-10-03T04:56:36.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.",

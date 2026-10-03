@@ -18,7 +18,7 @@ YP  YP  YP ~Y8888P' Y8888D'
 
 > A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,734 | 🐛 106 | 📅 2026-09-02 list thing. You might also like [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,704 | 🐛 188 | 📅 2025-08-28 and [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,494 | 🐛 1 | 🌐 Shell | 📅 2026-09-30, which both support text-based living!*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02 list thing. You might also like [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,708 | 🐛 188 | 📅 2025-08-28 and [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,495 | 🐛 1 | 🌐 Shell | 📅 2026-09-30, which both support text-based living!*
 
 Want to add your awesome MUD resource? Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
@@ -54,7 +54,7 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 * [Ranvier](https://github.com/shawncplus/ranviermud) ⭐ 857 | 🐛 19 | 🌐 JavaScript | 📅 2023-07-11 - Node.js-based MUD engine.
 * [ExVenture](https://github.com/oestrich/ex_venture) ⚠️ Archived - Elixir based MUD engine.
 * [FluffOS](https://github.com/fluffos/fluffos) ⭐ 462 | 🐛 27 | 🌐 C++ | 📅 2026-10-01 - actively maintained LPMUD driver, based on the last release of MudOS.
-* [CoffeMud](https://github.com/bozimmerman/CoffeeMud) ⭐ 235 | 🐛 3 | 🌐 Java | 📅 2026-10-02 - Java-based MUD engine.
+* [CoffeMud](https://github.com/bozimmerman/CoffeeMud) ⭐ 236 | 🐛 3 | 🌐 Java | 📅 2026-10-03 - Java-based MUD engine.
 * [DikuMUD3](https://github.com/Seifert69/DikuMUD3) ⭐ 229 | 🐛 38 | 🌐 C++ | 📅 2026-08-19 - Latest DikuMID release with HTML and websockets support.
 * [Kalevala](https://github.com/oestrich/kalevala) ⭐ 197 | 🐛 8 | 🌐 Elixir | 📅 2025-05-04 - World building toolkit for text based games, written in Elixir.
 * [Legends of Future Past](https://github.com/jonradoff/lofp) ⭐ 180 | 🐛 64 | 🌐 HTML | 📅 2026-05-17 - 1992 commercial MUD resurrected from original script files using AI. Go backend, React frontend, WebSocket multiplayer. MIT license. [Play free](https://lofp.metavert.io).
@@ -64,11 +64,11 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 * [tbaMUD](https://github.com/tbamud/tbamud) ⭐ 151 | 🐛 11 | 🌐 C | 📅 2026-09-08 - tbaMUD is the continued development of the codebase formerly known as CircleMUD
 * [ArchaicQuest](https://github.com/LiamKenneth/ArchaicQuest) ⭐ 144 | 🐛 6 | 🌐 C# | 📅 2018-02-14 - C# web based MUD engine.
 * [DragonMUD](https://github.com/bbuck/dragon-mud) ⭐ 123 | 🐛 0 | 🌐 Go | 📅 2026-10-03 - MUD engine in GO.
-* [EmpireMUD](https://github.com/EmpireMUD/EmpireMUD-2.0-Beta) ⭐ 101 | 🐛 12 | 🌐 C | 📅 2026-10-02 - EmpireMUD is a MUD server with a persistent world map. It is a derivative of CircleMUD and DikuMUD.
+* [EmpireMUD](https://github.com/EmpireMUD/EmpireMUD-2.0-Beta) ⭐ 101 | 🐛 12 | 🌐 C | 📅 2026-10-03 - EmpireMUD is a MUD server with a persistent world map. It is a derivative of CircleMUD and DikuMUD.
 * [room.js](https://github.com/doughsay/room.js) ⭐ 87 | 🐛 23 | 🌐 JavaScript | 📅 2020-05-25 - Node.js-based MUD/MOO engine.
 * [AwakeMUD](https://github.com/luciensadi/AwakeMUD) ⭐ 79 | 🐛 12 | 🌐 C++ | 📅 2026-10-02 - Community fork of Awakened Worlds written in C++.
 * [CurryMUD](https://github.com/jasonstolaruk/CurryMUD) ⭐ 79 | 🐛 1 | 🌐 Haskell | 📅 2023-12-12 - Textual Multi-User Dungeon server in Haskell.
-* [DUM](https://github.com/wowpin/dumserver) ⭐ 71 | 🐛 6 | 🌐 JavaScript | 📅 2023-09-25 - A modern Python MU\* engine.
+* [DUM](https://github.com/wowpin/dumserver) ⭐ 72 | 🐛 6 | 🌐 JavaScript | 📅 2023-09-25 - A modern Python MU\* engine.
 * [BRus MUD Engine](https://github.com/bylins/mud) ⭐ 43 | 🐛 39 | 🌐 C++ | 📅 2026-10-02 - Russian MUD engine in C++.
 * [HellCore](https://github.com/necanthrope/HellCore) ⭐ 26 | 🐛 1 | 🌐 C | 📅 2022-04-25 - HellCore fork of LambdaMOO.
 
