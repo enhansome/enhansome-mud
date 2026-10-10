@@ -15,8 +15,8 @@
             "id": 15108812,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T01:01:26Z",
-            "open_issues": 902,
+            "last_commit": "2026-10-10T00:59:34Z",
+            "open_issues": 986,
             "owner": "Mudlet",
             "repo": "Mudlet",
             "stars": 914,
@@ -226,11 +226,11 @@
             "id": 16120959,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T01:17:21Z",
-            "open_issues": 134,
+            "last_commit": "2026-10-09T19:10:19Z",
+            "open_issues": 136,
             "owner": "evennia",
             "repo": "evennia",
-            "stars": 2109,
+            "stars": 2108,
             "topics": [
               "based",
               "django",
@@ -299,7 +299,7 @@
             "open_issues": 8,
             "owner": "oestrich",
             "repo": "ex_venture",
-            "stars": 672,
+            "stars": 670,
             "topics": [
               "elixir",
               "mud",
@@ -322,10 +322,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T23:29:39Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "fluffos",
             "repo": "fluffos",
-            "stars": 463,
+            "stars": 462,
             "topics": [
               "cpp17",
               "fluffos",
@@ -347,11 +347,11 @@
             "id": 5267832,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T03:07:42Z",
+            "last_commit": "2026-10-09T12:26:30Z",
             "open_issues": 3,
             "owner": "bozimmerman",
             "repo": "CoffeeMud",
-            "stars": 236,
+            "stars": 235,
             "topics": []
           },
           "first_seen": "2026-08-28T05:34:27.591Z"
@@ -369,10 +369,10 @@
             "language": "C++",
             "license": "LGPL-2.1",
             "last_commit": "2026-08-19T14:39:14Z",
-            "open_issues": 38,
+            "open_issues": 41,
             "owner": "Seifert69",
             "repo": "DikuMUD3",
-            "stars": 229,
+            "stars": 227,
             "topics": [
               "mud",
               "mud-client",
@@ -420,10 +420,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-05-17T20:07:29Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "jonradoff",
             "repo": "lofp",
-            "stars": 181,
+            "stars": 180,
             "topics": [
               "game",
               "game-development",
@@ -454,7 +454,7 @@
             "open_issues": 41,
             "owner": "ldmud",
             "repo": "ldmud",
-            "stars": 158,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-28T05:34:27.591Z"
@@ -475,7 +475,7 @@
             "open_issues": 2,
             "owner": "MoreOutput",
             "repo": "RockMUD",
-            "stars": 156,
+            "stars": 155,
             "topics": [
               "browser-mud",
               "javascript",
@@ -502,7 +502,7 @@
             "open_issues": 0,
             "owner": "irmen",
             "repo": "Tale",
-            "stars": 151,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T05:34:27.591Z"
@@ -523,7 +523,7 @@
             "open_issues": 11,
             "owner": "tbamud",
             "repo": "tbamud",
-            "stars": 151,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-28T05:34:27.591Z"
@@ -544,7 +544,7 @@
             "open_issues": 6,
             "owner": "LiamKenneth",
             "repo": "ArchaicQuest",
-            "stars": 144,
+            "stars": 143,
             "topics": [
               "adventure-game",
               "browser-game",
@@ -580,7 +580,7 @@
             "open_issues": 0,
             "owner": "bbuck",
             "repo": "dragon-mud",
-            "stars": 123,
+            "stars": 122,
             "topics": [
               "game-engine",
               "golang",
@@ -606,11 +606,11 @@
             "id": 34863478,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-09T00:40:34Z",
+            "last_commit": "2026-10-09T22:44:41Z",
             "open_issues": 12,
             "owner": "EmpireMUD",
             "repo": "EmpireMUD-2.0-Beta",
-            "stars": 101,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T05:34:27.591Z"
@@ -631,7 +631,7 @@
             "open_issues": 23,
             "owner": "doughsay",
             "repo": "room.js",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "game-engine",
               "moo",
@@ -654,10 +654,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T14:17:57Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "luciensadi",
             "repo": "AwakeMUD",
-            "stars": 80,
+            "stars": 78,
             "topics": [
               "awakened-worlds",
               "awakened-worlds-codebase",
@@ -690,7 +690,7 @@
             "open_issues": 1,
             "owner": "jasonstolaruk",
             "repo": "CurryMUD",
-            "stars": 79,
+            "stars": 78,
             "topics": [
               "game",
               "game-dev",
@@ -724,7 +724,7 @@
             "open_issues": 6,
             "owner": "wowpin",
             "repo": "dumserver",
-            "stars": 72,
+            "stars": 71,
             "topics": [
               "mud",
               "mud-engine",
@@ -750,11 +750,11 @@
             "id": 143519912,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T20:32:11Z",
+            "last_commit": "2026-10-09T20:12:43Z",
             "open_issues": 39,
             "owner": "bylins",
             "repo": "mud",
-            "stars": 43,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T05:34:27.591Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T01:20:55.575Z",
+    "last_updated": "2026-10-10T01:08:58.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.",
