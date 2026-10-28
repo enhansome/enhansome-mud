@@ -18,7 +18,7 @@ YP  YP  YP ~Y8888P' Y8888D'
 
 > A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 525,189 | 🐛 105 | 📅 2026-09-02 list thing. You might also like [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,842 | 🐛 192 | 📅 2025-08-28 and [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⚠️ Archived, which both support text-based living!*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 525,744 | 🐛 105 | 📅 2026-09-02 list thing. You might also like [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,845 | 🐛 192 | 📅 2025-08-28 and [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⚠️ Archived, which both support text-based living!*
 
 Want to add your awesome MUD resource? Make the change and [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
@@ -33,8 +33,8 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 
 *Log in and play.*
 
-* [Mudlet](https://github.com/Mudlet/Mudlet) ⭐ 919 | 🐛 592 | 🌐 C++ | 📅 2026-10-26 - A cross-platform, MUD client with scripting in Lua.
-* [Blightmud](https://github.com/LiquidityC/Blightmud) ⭐ 279 | 🐛 11 | 🌐 Rust | 📅 2026-10-26 -  A mud client for the terminal
+* [Mudlet](https://github.com/Mudlet/Mudlet) ⭐ 920 | 🐛 598 | 🌐 C++ | 📅 2026-10-27 - A cross-platform, MUD client with scripting in Lua.
+* [Blightmud](https://github.com/LiquidityC/Blightmud) ⭐ 279 | 🐛 11 | 🌐 Rust | 📅 2026-10-27 -  A mud client for the terminal
 * [MUDRammer](https://github.com/splinesoft/MUDRammer) ⭐ 86 | 🐛 361 | 🌐 Objective-C | 📅 2025-03-25 - Modern MUD client for the iPhone and iPad.
 * [Tortilla](https://github.com/tmud/tortilla) ⭐ 26 | 🐛 2 | 🌐 C++ | 📅 2022-04-16
 * [KBtin](https://github.com/kilobyte/kbtin) ⭐ 23 | 🐛 3 | 🌐 C++ | 📅 2026-08-05 - TinTin++-style MUD client
@@ -53,11 +53,11 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 * [Evennia](https://github.com/evennia/evennia) ⭐ 2,114 | 🐛 125 | 🌐 Python | 📅 2026-10-24 - Python MUD/MUX/MUSH/MU\* development system.
 * [Ranvier](https://github.com/shawncplus/ranviermud) ⭐ 858 | 🐛 19 | 🌐 JavaScript | 📅 2023-07-11 - Node.js-based MUD engine.
 * [ExVenture](https://github.com/oestrich/ex_venture) ⚠️ Archived - Elixir based MUD engine.
-* [FluffOS](https://github.com/fluffos/fluffos) ⭐ 465 | 🐛 23 | 🌐 C++ | 📅 2026-10-26 - actively maintained LPMUD driver, based on the last release of MudOS.
-* [CoffeMud](https://github.com/bozimmerman/CoffeeMud) ⭐ 236 | 🐛 3 | 🌐 Java | 📅 2026-10-26 - Java-based MUD engine.
-* [DikuMUD3](https://github.com/Seifert69/DikuMUD3) ⭐ 228 | 🐛 43 | 🌐 C++ | 📅 2026-10-21 - Latest DikuMID release with HTML and websockets support.
+* [FluffOS](https://github.com/fluffos/fluffos) ⭐ 465 | 🐛 19 | 🌐 C++ | 📅 2026-10-27 - actively maintained LPMUD driver, based on the last release of MudOS.
+* [CoffeMud](https://github.com/bozimmerman/CoffeeMud) ⭐ 236 | 🐛 3 | 🌐 Java | 📅 2026-10-28 - Java-based MUD engine.
+* [DikuMUD3](https://github.com/Seifert69/DikuMUD3) ⭐ 228 | 🐛 42 | 🌐 C++ | 📅 2026-10-27 - Latest DikuMID release with HTML and websockets support.
 * [Kalevala](https://github.com/oestrich/kalevala) ⭐ 197 | 🐛 8 | 🌐 Elixir | 📅 2025-05-04 - World building toolkit for text based games, written in Elixir.
-* [Legends of Future Past](https://github.com/jonradoff/lofp) ⭐ 183 | 🐛 71 | 🌐 HTML | 📅 2026-10-17 - 1992 commercial MUD resurrected from original script files using AI. Go backend, React frontend, WebSocket multiplayer. MIT license. [Play free](https://lofp.metavert.io).
+* [Legends of Future Past](https://github.com/jonradoff/lofp) ⭐ 183 | 🐛 72 | 🌐 HTML | 📅 2026-10-17 - 1992 commercial MUD resurrected from original script files using AI. Go backend, React frontend, WebSocket multiplayer. MIT license. [Play free](https://lofp.metavert.io).
 * [ldmud](https://github.com/ldmud/ldmud) ⭐ 157 | 🐛 42 | 🌐 C | 📅 2026-10-08 - LDMud game driver for LPMuds.
 * [RockMUD](https://github.com/MoreOutput/RockMUD) ⭐ 155 | 🐛 2 | 🌐 JavaScript | 📅 2023-03-04 - Node.js-based WebSockets-capable MUD server.
 * [Tale](https://github.com/irmen/Tale) ⚠️ Archived - Mud, mudlib & interactive fiction framework.
@@ -69,7 +69,7 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 * [AwakeMUD](https://github.com/luciensadi/AwakeMUD) ⭐ 79 | 🐛 20 | 🌐 C++ | 📅 2026-10-21 - Community fork of Awakened Worlds written in C++.
 * [CurryMUD](https://github.com/jasonstolaruk/CurryMUD) ⭐ 78 | 🐛 1 | 🌐 Haskell | 📅 2023-12-12 - Textual Multi-User Dungeon server in Haskell.
 * [DUM](https://github.com/wowpin/dumserver) ⭐ 71 | 🐛 6 | 🌐 JavaScript | 📅 2023-09-25 - A modern Python MU\* engine.
-* [BRus MUD Engine](https://github.com/bylins/mud) ⭐ 42 | 🐛 44 | 🌐 C++ | 📅 2026-10-26 - Russian MUD engine in C++.
+* [BRus MUD Engine](https://github.com/bylins/mud) ⭐ 42 | 🐛 44 | 🌐 C++ | 📅 2026-10-27 - Russian MUD engine in C++.
 * [HellCore](https://github.com/necanthrope/HellCore) ⭐ 26 | 🐛 1 | 🌐 C | 📅 2022-04-25 - HellCore fork of LambdaMOO.
 
 ## Protocols
@@ -100,4 +100,4 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
