@@ -15,8 +15,8 @@
             "id": 15108812,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T01:08:25Z",
-            "open_issues": 512,
+            "last_commit": "2026-10-29T23:41:53Z",
+            "open_issues": 514,
             "owner": "Mudlet",
             "repo": "Mudlet",
             "stars": 920,
@@ -271,7 +271,7 @@
             "open_issues": 19,
             "owner": "RanvierMUD",
             "repo": "ranviermud",
-            "stars": 858,
+            "stars": 857,
             "topics": [
               "game-engine",
               "javascript",
@@ -347,7 +347,7 @@
             "id": 5267832,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T00:41:49Z",
+            "last_commit": "2026-10-30T00:05:11Z",
             "open_issues": 3,
             "owner": "bozimmerman",
             "repo": "CoffeeMud",
@@ -369,7 +369,7 @@
             "language": "C++",
             "license": "LGPL-2.1",
             "last_commit": "2026-10-28T18:15:14Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "Seifert69",
             "repo": "DikuMUD3",
             "stars": 228,
@@ -610,7 +610,7 @@
             "open_issues": 12,
             "owner": "EmpireMUD",
             "repo": "EmpireMUD-2.0-Beta",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T05:34:27.591Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:09:47.651Z",
+    "last_updated": "2026-10-30T01:17:24.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "🖥 A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.",
